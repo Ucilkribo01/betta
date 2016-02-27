@@ -1,0 +1,34 @@
+body{
+    margin: 0; padding: 0;
+    background-image: url(images/background.png);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    margin:30px auto;
+}
+.One{
+    width: 300px;
+}
+.One > p{
+    margin-top: 300px;
+}
+.Two > p{
+    float: right;
+    margin-top: -250px;
+}
+.Two > article {
+    margin-top: -150px;
+    float: right;
+    color: white;
+    text-align: right;
+    font-family: monospace;
+    font-size: 14px;
+    clear: both;
+}
+.Two > a{
+    margin-top: 10px;
+    float: right;
+}

@@ -1,0 +1,34 @@
+body{
+    margin: 0; padding: 0;
+    background-image: url(images/background.png);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rules{
+    box-sizing: content-box;
+    display: flex;
+    width: 7px;
+    margin: auto;
+    padding-top: 150px;
+    padding-right: 700px
+}
+p{
+    margin-top: 150px;
+    margin-left: 26px;
+}
+.Portofolio{
+    box-sizing: content-box;
+    padding-top: 170px; 
+}
+.AboutMe{
+    box-sizing: content-box;
+    padding-left: 44px;
+}
+.Contact{
+    padding-left: 11px;
+}
+.vektor > img{
+    margin-top: 115px;
+}
